@@ -1,11 +1,5 @@
-## My Project
-
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+## aws-cloudformation-resource-providers-docdbelastic
+The CloudFormation Resource Provider Package For Amazon DocumentDB Elastic Clusters
 
 ## Security
 
@@ -14,4 +8,3 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This project is licensed under the Apache-2.0 License.
-
